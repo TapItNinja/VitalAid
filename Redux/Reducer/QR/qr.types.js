@@ -1,0 +1,6 @@
+// Redux/Reducer/QR/qr.types.js
+export const QRActionTypes = {
+  FETCH_MENU_START: 'FETCH_MENU_START',
+  FETCH_MENU_SUCCESS: 'FETCH_MENU_SUCCESS',
+  FETCH_MENU_FAILURE: 'FETCH_MENU_FAILURE',
+};
