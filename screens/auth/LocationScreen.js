@@ -74,7 +74,7 @@ const LocationScreen = () => {
 
   const fetchAddress = (latitude, longitude) => {
     setIsFetchingLocation(true);
-    const apiKey = 'AIzaSyDZn-z1HGkssghJi8gsUUMgZ6K53RqElZM';
+    const apiKey = '';
     fetch(
       `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${apiKey}`,
     )
