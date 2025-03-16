@@ -24,9 +24,9 @@ VitalAid secured a **Top 5 position** at the VIT Vellore Hackathon! Our innovati
       <td align="center">Doctor Connect</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/home.jpeg" width="200"/></td>
-      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/cart.jpeg" width="200"/></td>
-      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/doctor.jpeg" width="200"/></td>
+      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/screenshots/home.jpeg" width="200"/></td>
+      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/screenshots/cart.jpeg" width="200"/></td>
+      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/screenshots/doctor.jpeg" width="200"/></td>
     </tr>
     <tr>
       <td align="center">Diagnostics</td>
