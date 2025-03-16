@@ -1,7 +1,7 @@
 # VitalAid 🏥
 
 <div align="center">
-  <img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/logo.png" alt="VitalAid Logo" width="200"/>
+  <img src="https://github.com/TapItNinja/VitalAid/raw/main/screenshots/logo.png" alt="VitalAid Logo" width="200"/>
   
   <h3>Your Complete Healthcare Companion</h3>
   
@@ -33,8 +33,8 @@ VitalAid secured a **Top 5 position** at the VIT Vellore Hackathon! Our innovati
       <td align="center">User Profile</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/diagnosis.jpeg" width="200"/></td>
-      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/profile.jpeg" width="200"/></td>
+      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/screenshots/diagnosis.jpeg" width="200"/></td>
+      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/screenshots/profile.jpeg" width="200"/></td>
     </tr>
   </table>
 </div>
