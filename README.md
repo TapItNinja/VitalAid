@@ -1,7 +1,7 @@
 # VitalAid 🏥
 
 <div align="center">
-  <img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/assets/logo.png" alt="VitalAid Logo" width="200"/>
+  <img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/logo.png" alt="VitalAid Logo" width="200"/>
   
   <h3>Your Complete Healthcare Companion</h3>
   
@@ -24,19 +24,17 @@ VitalAid secured a **Top 5 position** at the VIT Vellore Hackathon! Our innovati
       <td align="center">Doctor Connect</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/home.png" width="200"/></td>
-      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/cart.png" width="200"/></td>
-      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/doctor.png" width="200"/></td>
+      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/home.jpeg" width="200"/></td>
+      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/cart.jpeg" width="200"/></td>
+      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/doctor.jpeg" width="200"/></td>
     </tr>
     <tr>
       <td align="center">Diagnostics</td>
       <td align="center">User Profile</td>
-      <td align="center">Order Confirmation</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/diagnosis.png" width="200"/></td>
-      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/profile.png" width="200"/></td>
-      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/confirmation.png" width="200"/></td>
+      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/diagnosis.jpeg" width="200"/></td>
+      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/screenshots/profile.jpeg" width="200"/></td>
     </tr>
   </table>
 </div>
@@ -151,6 +149,14 @@ VitalAid secured a **Top 5 position** at the VIT Vellore Hackathon! Our innovati
   </table>
 </div>
 
+## 🌟 Key Highlights
+
+- **Telemedicine Integration**: Seamless video consultations with qualified doctors
+- **Medicine Delivery**: Fast and reliable delivery of prescribed medications
+- **Health Diagnostics**: Easy-to-use interface for symptom analysis and health tracking
+- **Doctor Network**: Access to a wide network of healthcare specialists across India
+- **User-Friendly Interface**: Intuitive design for users of all ages
+
 ## 🔮 Future Roadmap
 
 - [ ] Integration with wearable devices for real-time health monitoring
@@ -181,5 +187,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   <p>Made with ❤️ for healthcare innovation in India</p>
-  <img src="https://github.com/TapItNinja/VitalAid/raw/main/vital/assets/india-flag.png" alt="Indian Flag" width="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Indian Flag" width="30"/>
 </div>
