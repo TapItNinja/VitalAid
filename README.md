@@ -1,191 +1,122 @@
-# VitalAid 🏥
+### **Tic-Tac-Toe Ultimate Edition 🎮**  
 
 <div align="center">
-  <img src="https://github.com/TapItNinja/VitalAid/raw/main/screenshots/logo.png" alt="VitalAid Logo" width="200"/>
+  <img src="https://darling-taiyaki-03b8cf.netlify.app/favicon.ico" alt="Tic-Tac-Toe Logo" width="200"/>
   
-  <h3>Your Complete Healthcare Companion</h3>
+  <h3>Multiplayer & AI-Powered Tic-Tac-Toe</h3>
   
-  [![Hackathon](https://img.shields.io/badge/VIT_Vellore_Hackathon-Top_5-6A0572.svg)](https://github.com/TapItNinja/VitalAid)
-  [![Platform](https://img.shields.io/badge/Platform-React_Native-61DAFB.svg)](https://reactnative.dev/)
-  [![Status](https://img.shields.io/badge/Status-Active-4CAF50.svg)](https://github.com/TapItNinja/VitalAid)
+  [![Platform](https://img.shields.io/badge/Platform-React-61DAFB.svg)](https://react.dev/)
+  [![Status](https://img.shields.io/badge/Status-Active-4CAF50.svg)](https://darling-taiyaki-03b8cf.netlify.app/)
 </div>
 
-## 🏆 Award-Winning Project
+---
 
-VitalAid secured a **Top 5 position** at the VIT Vellore Hackathon! Our innovative healthcare solution impressed judges with its comprehensive approach to telemedicine, medication management, and health diagnostics.
+## 🎮 **Game Overview**  
 
-## 📱 App Showcase
+Tic-Tac-Toe Ultimate Edition is a **modern, feature-rich** take on the classic game. With **PvP mode, AI difficulty levels, animations, and settings customization**, this game delivers a **fun and engaging** experience!  
+
+🔗 **Live Demo**: [Play Now](https://darling-taiyaki-03b8cf.netlify.app/)  
+
+---
+
+## 🏆 **Features**  
+
+- 🆚 **Two Game Modes** – Play **1v1** with a friend or challenge an **AI opponent**.  
+- 🧠 **AI Difficulty Levels** – Choose from **Easy, Medium, or Hard AI**.  
+- 🎨 **Dynamic Theme Support** – Play in **Dark Mode** or **Light Mode**.  
+- ✨ **Confetti Celebrations** – Enjoy cool confetti effects on victory!  
+- 📊 **Score Tracking** – Keep track of wins, losses, and ties.  
+- 🔄 **Undo Move Feature** – Take back your last move when needed.  
+- ⚙️ **Custom Settings** – Toggle sound effects, animations, and more!  
+
+---
+
+## 🎭 **Game Preview**  
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">Home Screen</td>
-      <td align="center">Cart & Medications</td>
-      <td align="center">Doctor Connect</td>
+      <td align="center">Game Board</td>
+      <td align="center">Win Animation</td>
+      <td align="center">Settings</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/screenshots/home.jpeg" width="200"/></td>
-      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/screenshots/cart.jpeg" width="200"/></td>
-      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/screenshots/doctor.jpeg" width="200"/></td>
-    </tr>
-    <tr>
-      <td align="center">Diagnostics</td>
-      <td align="center">User Profile</td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/screenshots/diagnosis.jpeg" width="200"/></td>
-      <td><img src="https://github.com/TapItNinja/VitalAid/raw/main/screenshots/profile.jpeg" width="200"/></td>
+      <td><img src="https://darling-taiyaki-03b8cf.netlify.app/screenshots/board.png" width="200"/></td>
+      <td><img src="https://darling-taiyaki-03b8cf.netlify.app/screenshots/win.png" width="200"/></td>
+      <td><img src="https://darling-taiyaki-03b8cf.netlify.app/screenshots/settings.png" width="200"/></td>
     </tr>
   </table>
 </div>
 
-## ✨ Features
+---
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🩺 Direct Doctor Consultations</h3>
-      <ul>
-        <li>Video and audio calls with qualified doctors</li>
-        <li>Find specialists based on medical needs</li>
-        <li>View doctor ratings and experience</li>
-        <li>Connect with healthcare providers across India</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>💊 Medication Management</h3>
-      <ul>
-        <li>Order medications directly through the app</li>
-        <li>Track medication history</li>
-        <li>Receive reminders for medication schedules</li>
-        <li>Fast delivery options with real-time tracking</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔍 Health Diagnostics</h3>
-      <ul>
-        <li>Input symptoms for preliminary diagnosis</li>
-        <li>Schedule diagnostic tests</li>
-        <li>Track health metrics over time</li>
-        <li>Receive personalized health recommendations</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>👤 User Profiles</h3>
-      <ul>
-        <li>Manage personal health information</li>
-        <li>Store medical history securely</li>
-        <li>Track appointments and consultations</li>
-        <li>Access past prescriptions and reports</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 🛠 **Tech Stack**  
 
-## 🚀 Getting Started
+- **Frontend**: React, Hooks (useState, useEffect, useRef)  
+- **Animation**: Framer Motion  
+- **Game Logic**: Minimax Algorithm for AI, State Management with React  
+- **UI Components**: CSS Modules, Custom Confetti Effects  
 
-### Prerequisites
+---
 
-- Node.js (v14.0 or later)
-- npm or yarn
-- React Native development environment
-- Android Studio or Xcode (for mobile deployment)
+## 🚀 **Getting Started**  
 
-### Installation
+### **Prerequisites**  
+- **Node.js** (v14 or later)  
+- **npm** or **yarn** installed  
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/TapItNinja/VitalAid.git
-   ```
+### **Installation & Setup**  
 
-2. Navigate to the project directory
-   ```bash
-   cd VitalAid/vital
-   ```
+1️⃣ **Clone the repository**  
+```bash
+git clone https://github.com/yourgithub/tic-tac-toe.git
+cd tic-tac-toe
+```
 
-3. Install dependencies
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
+2️⃣ **Install dependencies**  
+```bash
+npm install
+# or
+yarn install
+```
 
-4. Start the development server
-   ```bash
-   npm start
-   # or
-   yarn start
-   ```
+3️⃣ **Run the project locally**  
+```bash
+npm start
+# or
+yarn start
+```
 
-5. Run on Android or iOS
-   ```bash
-   # For Android
-   npm run android
-   # or
-   yarn android
+4️⃣ **Deploy to Netlify/Vercel**  
+```bash
+npm run build
+```
 
-   # For iOS
-   npm run ios
-   # or
-   yarn ios
-   ```
+---
 
-## 🛠️ Tech Stack
+## 🔥 **Future Improvements**  
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://reactnative.dev/img/header_logo.svg" width="40"/><br/>React Native</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/react-navigation/react-navigation.github.io/source/img/spiro.svg" width="40"/><br/>React Navigation</td>
-      <td align="center"><img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" width="40"/><br/>Expo</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" width="40"/><br/>Redux</td>
-      <td align="center"><img src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4" width="40"/><br/>React Native Paper</td>
-      <td align="center"><img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="40"/><br/>Styled Components</td>
-    </tr>
-  </table>
-</div>
+- [ ] Online Multiplayer Mode  
+- [ ] Leaderboard & Achievements  
+- [ ] Speech-to-Text Integration for Moves  
+- [ ] Interactive Tutorial Mode  
 
-## 🌟 Key Highlights
+---
 
-- **Telemedicine Integration**: Seamless video consultations with qualified doctors
-- **Medicine Delivery**: Fast and reliable delivery of prescribed medications
-- **Health Diagnostics**: Easy-to-use interface for symptom analysis and health tracking
-- **Doctor Network**: Access to a wide network of healthcare specialists across India
-- **User-Friendly Interface**: Intuitive design for users of all ages
+## 👨‍💻 **Developers**  
 
-## 🔮 Future Roadmap
+- **Shubham Shaswat** – [GitHub](https://github.com/TapItNinja) | [LinkedIn](https://www.linkedin.com/in/shubham-shaswat-1b3369211/)  
 
-- [ ] Integration with wearable devices for real-time health monitoring
-- [ ] AI-powered symptom checker for more accurate preliminary diagnosis
-- [ ] Electronic Health Records (EHR) integration with hospitals
-- [ ] Multilingual support for regional languages across India
-- [ ] Telemedicine capabilities with advanced video conferencing features
+---
 
-## 👥 Team
+## 📜 **License**  
 
-- **Team Lead**: [TapItNinja](https://github.com/TapItNinja)
-- **UI/UX Designer**: [Designer Name](https://github.com/designer)
-- **Frontend Developer**: [Developer Name](https://github.com/developer)
-- **Backend Developer**: [Developer Name](https://github.com/developer)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgements
-
-- VIT Vellore for hosting the hackathon
-- Our mentors who guided us throughout the development process
-- The judges who recognized the potential of VitalAid
-- Open-source community for the amazing tools and libraries
+This project is licensed under the **MIT License**.  
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ for healthcare innovation in India</p>
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Indian Flag" width="30"/>
+  <p>Made with ❤️ for fun and competitive Tic-Tac-Toe gameplay! </p>
 </div>
+
+---
